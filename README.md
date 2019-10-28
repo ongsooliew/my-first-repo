@@ -1,30 +1,27 @@
-# This is a large heading
-## This is a smaller heading
 
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poet's pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**.
+# Sean Kross
 
-- This is 
-- an unordered
-- list
+### Geography
 
-1. This is
-2. an ordered
-3. list
+I live in the city of Baltimore, in the state of Maryland, in the United States
+of America.
 
-Here is 'some code' in the middle of a sentence.
+### Reading
 
-'''
-This is 
-a block 
-of code
-'''
+Three of my favorite books are:
 
-Here is how you make [a link](http://www.wikipedia.org/).
+- *Mindstorms* by Seymour Papert
+- *Welcome to the Monkey House* by Kurt Vonnegut
+- *Persepolis* by Marjane Satrapi
 
-![This is an image.](https://dupose.com/wp-content/uploads/2018/06/Michayla-Wong-leaked-nude-Michayla-Wong-Leaked-Nudes-016.jpg)
+### Food
 
+Last night I dreamt about eating in these restaurants:
 
+1. Linger in Denver.
+2. Azura in Jerusalem.
+3. Gemma in New York City.
 
+### Contact
+
+The best way to get in touch with me is [on Twitter](https://twitter.com/seankross).
